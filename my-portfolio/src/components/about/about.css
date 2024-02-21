@@ -1,0 +1,41 @@
+
+/*Stlying for the "About" section*/
+
+.rounded-image {
+    margin-right: -225px;
+    height: 50px;
+}
+
+
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 5px;
+    border: 5px solid  #4c94bd; 
+    border-radius: 10px 10px 10px 10px;
+}
+
+.about-me h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.about-me p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.about-me {
+    background-color: #4c94bd;
+    font-family: 'Chakra Petch', sans-serif;
+   
+}
+
+h1 {
+    font-size: 30px;
+}
