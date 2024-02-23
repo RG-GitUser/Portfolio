@@ -38,7 +38,7 @@ function Header() {
                         target="_blank"
                         href="" //insert github repo here
                     >
-                        <span className="content is-large">Your Name</span>
+                        <span className="content is-large"></span>
                     </a>
                 </div>
             </nav>
